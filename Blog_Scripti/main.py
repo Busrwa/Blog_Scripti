@@ -16,7 +16,7 @@ pip install timeago
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="167Ayberk",
+    password="your_pass",
     database="python"
 )
 
